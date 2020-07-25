@@ -1,5 +1,5 @@
 ---
-# Tips for Self Learning 
+## **Tips for Self Learning** 
 Hi folks, I want to share my self learning experience with you guys. 
 Before I begin to talk about those, I want to share my background situations. 
 ---
@@ -13,11 +13,19 @@ Before I begin to talk about those, I want to share my background situations.
 - AWS Solution Architect Associate
 - AWS Developer Associate
 - AWS SysOps Administrator
-- AWS Seucurity Specialty
+- AWS Security Specialty
+- AWS Advanced Networking Specialty
 
 4. In progress: 
 - Certified Kubernetes Administrator (CKA)
-- AWS Advanced Networking Specialty 
 - AWS Solution Architect Professional 
+- AWS DevOps Professional
 
----
+5. Tips for each certification what I passed until now:
+- [AWS Solution Architect Associate]()
+- [AWS Developer Associate]()
+- [AWS SysOps Administrator]()
+- [AWS Seucurity Specialty]()
+- [AWS Advanced Networking Specialty]()
+ 
+
